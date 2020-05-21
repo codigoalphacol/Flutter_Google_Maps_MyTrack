@@ -7,7 +7,7 @@
         android:icon="@mipmap/ic_launcher">
         //paste your key google maps
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAOpAOvUGayPQlt1gd5_w4F0EaxUjThg7Y"/>
+            android:value="PASTE YOUR KEY"/>
         
         <activity
             android:name=".MainActivity"
